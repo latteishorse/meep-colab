@@ -53,5 +53,7 @@ Link: [Docker Image for Meep C++](https://hub.docker.com/r/latteishorse/eidl)
 
 
 ---
-The installation code for Meep Docs is fine, but it is a bit complicated for beginners.  [Meep Docs](https://meep.readthedocs.io/en/latest/Installation/)
+The Meep Docs installation codes are fine but a bit complicated for beginners. 
+[Meep Docs](https://meep.readthedocs.io/en/latest/Installation/)
+
 So, I shared the code because I want researchers who use Meep to be able to use it easily.
